@@ -1,4 +1,4 @@
-#include "/home/sa/TimAleks/BOS-Lect.-Practice-2/mysyslog/libmysyslog-json/include/libmysyslog-json.h"
+#include "/home/sa/MaxProdanov/BOS-Lect.-Practice-2/mysyslog/libmysyslog-json/include/libmysyslog-json.h"
 #include <stdio.h>
 #include <time.h>
 

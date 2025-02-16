@@ -3,7 +3,7 @@ Description=MySyslog Daemon
 After=network.target
 
 [Service]
-ExecStart=/home/sa/TimAleks/BOS-Lect.-Practice-2/mysyslog/mysyslog-daemon/mysyslog-daemon
+ExecStart=/home/sa/MAxProdanov/BOS-Lect.-Practice-2/mysyslog/mysyslog-daemon/mysyslog-daemon
 Restart=always
 RestartSec=5
 StartLimitIntervalSec=0
